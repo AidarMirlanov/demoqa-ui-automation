@@ -7,7 +7,7 @@ UI test automation project for [DemoQA](https://demoqa.com) — a practice websi
 | Tool | Purpose |
 |------|---------|
 | Java 17 | Programming language |
-| Selenium 4 | UI browser automation |
+| Selenium  | UI browser automation |
 | TestNG | Test framework |
 | Allure | Test reporting |
 | Lombok | Boilerplate reduction |
