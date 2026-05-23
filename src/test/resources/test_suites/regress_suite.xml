@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regress Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/aidar312/Documents/DemoAidar/src/test/resources/test_suites">
+        <classes>
+        <class name="MenuTests"/>
+        <class name="PracticeFormTest"/>
+        <class name="SelectMenuTest"/>
+        <class name="TexBoxTest"/>
+        <class name="WebTablesTest"/>
+        </classes>
+    </test>
+</suite>
